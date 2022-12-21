@@ -1,2 +1,2 @@
 # jogos-simples-python
-Primeiro Teste no git com coisas simples
+Primeira postagem no git, com projeto simples usando o jogo da forca
