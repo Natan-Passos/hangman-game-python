@@ -1,2 +1,4 @@
 # hangman-game-python
-Primeira postagem no git, com projeto simples usando o jogo da forca
+Primeira postagem no git com projeto simples, jogo da forca
+
+My first git post with a simple project, hangman game.
