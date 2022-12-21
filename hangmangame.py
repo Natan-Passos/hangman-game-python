@@ -1,5 +1,4 @@
-#The game - FORCA NELES 
-import random
+ import random
 
 userData = ''
 list_words = []
@@ -118,10 +117,12 @@ def is_integer(n):
     else:
         return float(n).is_integer()
 
-append('Onomatopeia')
-append('Casa')
-append('Natan')
-game()
+#add word in the game
+append('Toxic')
+append('Home')
+append('Cristal')
+#Random 
 
-#Menu
-#........;-;........#
+#start game
+if __name__ == "__main__":
+    game()
